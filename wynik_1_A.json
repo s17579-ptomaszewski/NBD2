@@ -1,0 +1,2 @@
+{  "_id" : "Female",  "avgHeight" : NumberDecimal("166.8126091370558375634517766497462"),  "avgWeight" : NumberDecimal("70.11331573604060913705583756345178") }
+{  "_id" : "Male",  "avgHeight" : NumberDecimal("166.7375994346860488592772057338986"),  "avgWeight" : NumberDecimal("70.01200686452654956591964465980214") }
